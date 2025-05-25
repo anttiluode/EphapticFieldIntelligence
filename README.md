@@ -3,7 +3,8 @@
 (I added the partial image recall, the fields can recall a image from a partial version, added another recall too that makes 
 cross circle etc and then tries to recall with noise) 
 
-(I added instaton chess where they learn from pgn files. The chess mate condition did not seem to work) 
+(I added instaton chess where they learn from pgn files. The chess mate condition did not seem to work, they need to be 
+taught with pgn files you can download from online.)
 
 This repository contains three groundbreaking Python applications demonstrating novel physics-inspired computing:
 
