@@ -1,5 +1,7 @@
 # Ephaptic Field Intelligence Tools
 
+(I added the partial image recall, the fields can recall a image from a partial version) 
+
 This repository contains three groundbreaking Python applications demonstrating novel physics-inspired computing:
 
 - **Instaton Image Storage System**
